@@ -64,8 +64,8 @@ java -cp src Program
 1 - Cadastrar pessoa
 2 - Listar pessoas
 3 - Buscar pessoa
-4 - Editar pessoa
-5 - Remover pessoa
+4 - Remover pessoa
+5 - Editar pessoa
 0 - Sair
 ```
 
